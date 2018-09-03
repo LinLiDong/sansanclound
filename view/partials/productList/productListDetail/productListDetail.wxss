@@ -1,0 +1,112 @@
+
+/*没有相关商品  */
+.noproduct{
+  width: 100%;
+  height: 200rpx;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+}
+.noproduct image{
+  width: 150rpx;
+  height: 150rpx;
+  margin: 0 auto;
+  
+}
+.noproduct text{
+font-size: 30rpx;
+  
+}
+
+
+
+.ListDataContainer{
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid #ddd;
+  font-size: 1em;
+}
+.ListDataItem{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.8em;
+  height: 6em;
+  border-radius: 0.4em;
+  margin-bottom: 0.8em;
+  background: #fff;
+
+
+}
+.ListDataItemWord{
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+        margin-left:10px;
+ 
+    
+}
+.ListDataItemWordName{
+  height: 70rpx;
+ display: -webkit-box;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    font-size: 26rpx;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp:2;
+}
+
+.ListDataItemWord .word2 {
+  font-size: 30rpx;
+  color: red;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.Box{
+  width: 100%;
+height: 60rpx;
+    display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 50rpx;
+}
+.Box text{
+  font-size: 30rpx;
+  display: block;
+  line-height: 50rpx;
+color: red;
+
+}
+.BoxRed{
+  width: 100rpx;
+  height: 40rpx;
+
+  border-radius: 20rpx;
+  text-align: center;
+}
+.Box .BoxRed text{
+  font-size: 26rpx;
+  display: block;
+  line-height: 40rpx;
+
+margin-left: 0rpx;
+}
+.ListDataItemImage{
+  width: 30%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 0.2em;
+}
+.ListDataItemImage image{
+  width: 100%;
+  height: 100%;
+}

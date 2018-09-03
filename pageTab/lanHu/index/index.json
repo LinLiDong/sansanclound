@@ -1,0 +1,12 @@
+{
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "囤仔",
+
+      "usingComponents": {
+        "productList": "../components/productList/productList",
+        "posters":"../../../view/partials/canvas/index"
+      }
+
+}

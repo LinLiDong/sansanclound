@@ -1,4 +1,4 @@
-目介绍
+项目介绍
 1.此项目是一套完整的电商系统，并且兼容各种电商场景可以很好的运用在各个领域。
 2.包含页面数43页，组件数14
 3.开源前端代码供大家学习，并且有许多漂亮的页面模板。
@@ -6,8 +6,10 @@ QQ交流群 — 25013930
 公司官网 - http://www.fz33.net 官网
 管理后台效果图（部分图）
 登录入口：http://www.sansancloud.com/manager/#/login	试用账号：yanshi 密码：yanshi123
-file-list	file-list
-file-list	file-list
+
+
+
+
 效果图---扫码查看
 扫码预览	扫码预览	扫码预览
 file-list	file-list	file-list
